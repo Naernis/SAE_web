@@ -215,7 +215,7 @@ footer p {
 a[href*="https://www.snapchat.com/"] {
   font-size: 0px;
   padding: 16px;
-  background-image: url(image/snapchat.png);
+  background-image: url(images/snapchat.png);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -223,14 +223,14 @@ a[href*="https://www.snapchat.com/"] {
 a[href*="https://twitter.com/?lang=fr"] {
   font-size: 0px;
   padding: 16px;
-  background-image: url(image/twitter.png);
+  background-image: url(images/twitter.png);
   background-size: contain;
   background-repeat: no-repeat;
 }
 a[href*="https://www.instagram.com/?hl=fr"] {
   font-size: 0px;
   padding: 16px;
-  background-image: url(image/instagram.png);
+  background-image: url(images/instagram.png);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -238,7 +238,7 @@ a[href*="https://www.instagram.com/?hl=fr"] {
 a[href*="https://fr-fr.facebook.com/"] {
   font-size: 0px;
   padding: 16px;
-  background-image: url(image/facebook.png);
+  background-image: url(images/facebook.png);
   background-size: contain;
   background-repeat: no-repeat;
 }
